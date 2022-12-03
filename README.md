@@ -1,4 +1,4 @@
-# MechaCar_Statistical_Analysis
+
 # MechaCar_Statistical_Analysis
 Click here to view the R-script: [MechaCarChallenge.RScript](https://github.com/DevTrav/MechaCar_Statistical_Analysis/blob/main/MechaCarChallenge.R)
 
